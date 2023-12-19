@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+bcrypt
+PyJWT
+pymongo
+python-dotenv
+numpy
+opencv-python
+scipy
+fpdf
+Pillow
+pytesseract
+motor
+pydantic
+"pydantic[email]"
+jwt
