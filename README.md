@@ -17,7 +17,7 @@ Before starting, ensure you have the following installed:
 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you want to clone the repository.
-3. Run: `git clone [URL of the Expo React Native GitHub Repository]`
+3. Run: `git clone https://github.com/vanamagautam24/document_scanner_cmsc673.git`
 
 ### Installing Dependencies
 
